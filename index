@@ -74,7 +74,7 @@
 
     <a
       class="visit-btn"
-      href="https://sites.google.com/view/aocflight/flights"
+      href="https://sites.google.com/view/aocinfo/flight-tracking"
       target="_blank"
       rel="noopener noreferrer"
     >
@@ -84,7 +84,7 @@
 
   <div class="content">
     <iframe
-      src="https://sites.google.com/view/aocflight/flights"
+      src="https://sites.google.com/view/aocinfo/flight-tracking"
       title="AOC Flight Dashboard"
       allowfullscreen>
     </iframe>
